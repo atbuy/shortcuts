@@ -4,7 +4,7 @@ from pathlib import Path
 from PIL import Image, ImageGrab
 
 from shortcuts import helpers
-from shortcuts.helpers import log
+from shortcuts.logger import log
 
 
 def shut_up():

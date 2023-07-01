@@ -6,7 +6,7 @@ import pyperclip
 from PIL import Image, ImageDraw, ImageFont, ImageGrab
 
 from shortcuts import helpers
-from shortcuts.helpers import log
+from shortcuts.logger import log
 
 
 def edit_text(base_image: Image) -> Image:
