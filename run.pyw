@@ -1,7 +1,7 @@
 import keyboard
 
 from shortcuts import soy, stfu, joke, pepethink
-from shortcuts.helpers import setup_logger
+from shortcuts.logger import setup_logger
 
 
 setup_logger()
