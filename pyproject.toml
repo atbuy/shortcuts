@@ -9,7 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8.1"
 pyperclip = "^1.8.2"
-pillow = "^9.5.0"
+pillow = "^10.0.1"
 keyboard = "^0.13.5"
 pywin32 = {version = "^306", platform = "win32"}
 
