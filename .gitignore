@@ -4,6 +4,10 @@ vscode/*
 # Python
 __pycache__/
 *.py[cod]
+pyrightconfig.json
 
 # Logs
 *.log
+
+# Pyenv
+.python-version

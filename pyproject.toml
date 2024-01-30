@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "shortcuts"
-version = "0.1.0"
+version = "0.1.1"
 description = "Keybinds for shortcut functions to use day-to-day."
 authors = ["atbuy <filip1253@gmail.com>"]
 license = "MIT"
@@ -9,7 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8.1"
 pyperclip = "^1.8.2"
-pillow = "^10.0.1"
+pillow = "^10.2.0"
 keyboard = "^0.13.5"
 pywin32 = {version = "^306", platform = "win32"}
 
